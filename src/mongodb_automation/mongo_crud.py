@@ -1,5 +1,3 @@
-from typing import Any
-import os
 import pandas as pd
 import json
 from pymongo.mongo_client import MongoClient
